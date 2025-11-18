@@ -1,0 +1,5 @@
+{
+  "name": "ERP Data Analyzer",
+  "description": "An AI-powered mini-ERP tool to upload, view, and analyze business data from CSV or Excel files. It provides key insights and summaries using Gemini.",
+  "requestFramePermissions": []
+}
